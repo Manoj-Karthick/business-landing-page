@@ -152,6 +152,9 @@ svg {
 .fs-secondary-heading {
   font-size: var(--fs-secondary-headingg);
 }
+.fs-normal-heading {
+  font-size: var(--fs-600);
+}
 .fs-nav {
   font-size: var(--fs-nav);
 }
